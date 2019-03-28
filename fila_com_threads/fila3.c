@@ -18,6 +18,20 @@ typedef struct lista{
     int tamanho;
 } LISTA;
 
+//Prototipo das funcoes
+ LISTA* criarLista();
+ int nElementos(LISTA *lista);
+ void exibirLista(LISTA *lista);
+ void inserir(LISTA *lista, REGISTRO reg);
+ void remover(LISTA *lista, REGISTRO* reg);
+ void* inserirComThread(void* ptr);
+ void* removerComThread(void* ptr);
+ 
+ // Variaveis globais
+ LISTA* l;
+ REGISTRO reg;
+
+
 LISTA* criarLista(){
     LISTA* lista = (LISTA*) malloc(sizeof(LISTA));
     lista->tamanho = 0;
@@ -65,13 +79,56 @@ void remover(LISTA *lista, REGISTRO* reg){
     if(lista->inicio == NULL)
         lista->fim = NULL;
 }
+int lock = 0;
+LISTA* l;
+REGISTRO reg;
+pthread_mutex_t count_mutex = PTHREAD_MUTEX_INITIALIZER;
+
+void* inserirComThread(void* ptr){
+    char* message;
+    message = (char*) ptr;
+
+    while(lock == 1){
+    lock = 1;
+    printf("%s inserindo na fila\n", message);
+    reg.c = 'x';
+    inserir(l, reg);
+    }
+
+    lock = 0;
+}
+
+void* removerComThread(void* ptr){
+    char* message;
+    message = (char*) ptr;
+    while(lock == 1){
+        printf("%s removendo da fila\n", message);
+        remover(l, &reg);
+    }
+
+    lock = 0;
+}
 
 int main()
 {
-    LISTA* l = criarLista();
-    REGISTRO reg;
-    int tam;
+//    LISTA* l = criarLista();
+//    REGISTRO reg;
+//    int tam;
+    l = criarLista();
+    pthread_t produtor, consumidor;
+    char* message1 = "Produtor ";
+    char* message2 = "Consumidor ";
+
+    pthread_create(&produtor, NULL, inserirComThread, (void*) message1);
+    pthread_create(&consumidor, NULL, removerComThread, (void*) message2);
     
+    pthread_join(produtor, NULL);
+    pthread_join(consumidor, NULL);
+
+    printf("Lista : ");
+    exibirLista(l);
+    printf("\n");
+    /*
     reg.c = 'a';
     inserir(l, reg);
     reg.c = 'b';
@@ -88,5 +145,6 @@ int main()
     tam = nElementos(l);
     printf("Tamanho da lista: %d\n", tam);
     printf("\n");
+    */
     return 0;
 }

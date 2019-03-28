@@ -1,0 +1,576 @@
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
+Produtor  inserindo na fila
+Produtor  inserindo na fila
+Consumidor  removendo da fila
+Consumidor  removendo da fila
+Lista : Lista vazia!
+
